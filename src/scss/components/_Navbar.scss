@@ -113,6 +113,8 @@
 
     .mobile_menu {
       display: flex;
+      z-index: 9;
     }
   }
 }
+
