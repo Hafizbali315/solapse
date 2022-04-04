@@ -75,6 +75,7 @@
 			font-size: 24px;
 			color: #ffffff;
 			border: none;
+			cursor: pointer;
 		}
 	}
 
@@ -144,16 +145,8 @@
 			margin: 20px 20px;
 			text-align: center;
 			top: 80px;
-			background: #12051a;
-			border-radius: 64px;
 			padding: 8px 16px;
-			color: rgba(255, 255, 255, 0.8);
-			margin-top: -4px;
 
-			span {
-				color: #ff9837;
-				font-weight: 700;
-			}
 		}
 	}
 }
